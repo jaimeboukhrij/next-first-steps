@@ -1,0 +1,9 @@
+
+.link{
+    margin-right: 12px;
+    transition: all;
+}
+.link:hover{
+    text-decoration: underline;
+    color: rgb(96 165 250);
+}
